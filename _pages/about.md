@@ -15,18 +15,23 @@ I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Syst
 
 My research interests lie in Infectious disease modeling and  AI for health (AI4health).
 
+
+
 <ul>
   <li> Develop new multiscale modeling methods to characterize cross-scale infectious disease dynamics</li>
 
+The figure below illustrates my research vision
+  
+![Framework Diagram](../images/framework.png)
 
-
+**Develop a new Bayesian machine learning framework to examine the impact of macroscopic policies on microscopic
+pathogen dynamics, and to identify generation time as a key mechanistic link bridging micro-level viral load dynamics and macro-level epidemic growth rates.**
 
   
   <li>Data-Driven Decision Making</li>
   <li>Multimodal Machine Learning for Public Health</li>
   <li>Modeling Human Behavior in Complex Systems</li>
 </ul>
-
 
 
 
