@@ -15,7 +15,17 @@ I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Syst
 
 My research interests lie in Infectious disease modeling and  AI for health (AI4health).
 
+<ul>
+  <li> Develop new multiscale modeling methods to characterize cross-scale infectious disease dynamics</li>
 
+
+
+
+  
+  <li>Data-Driven Decision Making</li>
+  <li>Multimodal Machine Learning for Public Health</li>
+  <li>Modeling Human Behavior in Complex Systems</li>
+</ul>
 
 
 
