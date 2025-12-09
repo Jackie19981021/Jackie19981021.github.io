@@ -35,6 +35,11 @@ pathogen dynamics, and to identify generation time as a key mechanistic link bri
 
 AI-Based Framework for Early Detection and Intervention in Multiple Respiratory Disease Epidemics
 ======
+![Framework Diagram](../images/AI_framework.png)
+
+**Illustration of the predictive frameworks with data-driven hypotheses, methodological and implicative 
+improvement for early prediction of epidemics, severity, burden for multiple respiratory viruses using an integrated interface 
+of AI-Model and epidemic models for real-time interventions.**
 
 
 
