@@ -17,20 +17,23 @@ My research interests lie in **Infectious disease modeling (IDM)** and  **AI for
 
 
 
-<ul>
-  <li> <h3> Develop new multiscale modeling methods to characterize cross-scale infectious disease dynamics</h3></li>
 
+Develop new multiscale modeling methods to characterize cross-scale infectious disease dynamics
+======
   
 ![Framework Diagram](../images/framework.png)
 
 **Develop a new Bayesian machine learning framework to examine the impact of macroscopic policies on microscopic
 pathogen dynamics, and to identify generation time as a key mechanistic link bridging micro-level viral load dynamics and macro-level epidemic growth rates.**
 
-<li> <h3> Unravel how population immunity and viral co-circulation influence each other to predict future pandemics and viral evolution </h3></li>
-
+ Unravel how population immunity and viral co-circulation influence each other to predict future pandemics and viral evolution
+======
 ![Framework Diagram](../images/pop_framework.png)
 
-  
+**Integrating multi-source surveillance and behavioural data to reveal the bidirectional interplay between population immunity and viral co-circulation.**
+
+
+<ul>
   <li>Data-Driven Decision Making</li>
   <li>Multimodal Machine Learning for Public Health</li>
   <li>Modeling Human Behavior in Complex Systems</li>
