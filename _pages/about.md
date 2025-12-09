@@ -33,6 +33,11 @@ pathogen dynamics, and to identify generation time as a key mechanistic link bri
 **Integrating multi-source surveillance and behavioural data to reveal the bidirectional interplay between population immunity and viral co-circulation.**
 
 
+AI-Based Framework for Early Detection and Intervention in Multiple Respiratory Disease Epidemics
+======
+
+
+
 <ul>
   <li>Data-Driven Decision Making</li>
   <li>Multimodal Machine Learning for Public Health</li>
