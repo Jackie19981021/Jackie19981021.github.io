@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaqi Chen"
+title: "Jiaqi (Jackie) Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Jiaqi (Jackie) Chen** 
+
 ======
 Hi! I’m Jackie, currently a first-year PhD student at The University of Hong Kong, working with Prof. [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John) and Prof. [Sheikh Taslim Ali](https://sph.hku.hk/en/Biography/Ali-Sheikh-Taslim). 
 I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Systems and Technology in 2021. 
