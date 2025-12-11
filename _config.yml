@@ -25,11 +25,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Jiaqi (Jackie) Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student in the University of Hong Kong"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "The University of Hong Kongy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jiaqichen@connect.hku.hk" 
 
   # Academic websites
   academia         : # URL
