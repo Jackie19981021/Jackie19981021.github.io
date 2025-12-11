@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaqi (Jackie) Chen"
+title: "Jackie's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
